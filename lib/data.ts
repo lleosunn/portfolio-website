@@ -31,6 +31,10 @@ export const links = [
     name: "Contact",
     hash: "#contact",
   },
+  {
+    name: "Sports",
+    hash: "#sports",
+  }
 ] as const;
 
 export const experiencesData = [
@@ -104,4 +108,5 @@ export const skillsData = [
   "Python",
   "Django",
   "Framer Motion",
+  "Happy ending massages"
 ] as const;
