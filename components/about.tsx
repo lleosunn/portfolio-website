@@ -19,30 +19,16 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        After graduating with a degree in{" "}
-        <span className="font-medium">Accounting</span>, I decided to pursue my
-        passion for programming. I enrolled in a coding bootcamp and learned{" "}
-        <span className="font-medium">full-stack web development</span>.{" "}
-        <span className="italic">My favorite part of programming</span> is the
-        problem-solving aspect. I <span className="underline">love</span> the
-        feeling of finally figuring out a solution to a problem. My core stack
-        is{" "}
-        <span className="font-medium">
-          React, Next.js, Node.js, and MongoDB
-        </span>
-        . I am also familiar with TypeScript and Prisma. I am always looking to
-        learn new technologies. I am currently looking for a{" "}
-        <span className="font-medium">full-time position</span> as a software
-        developer.
+        As a freshman at MIT, I am currently completing my General Institute Requirements,
+        allowing me to focus on my academic interests in the coming years. I am passionate
+        about robotics and eager to gain more exposure and experience in the field.
+        In addition to my academic pursuits, I am a pole vaulter on the MIT Track and Field team,
+        with a personal record of 15’. I am also actively involved in campus life as a member of
+        Phi Delta Theta, the Chinese Students Club, and the Asian American Association.
       </p>
 
       <p>
-        <span className="italic">When I'm not coding</span>, I enjoy playing
-        video games, watching movies, and playing with my dog. I also enjoy{" "}
-        <span className="font-medium">learning new things</span>. I am currently
-        learning about{" "}
-        <span className="font-medium">history and philosophy</span>. I'm also
-        learning how to play the guitar.
+        Outside of school, I enjoy exploring new places, eating good food, and spending time with my amazing loving girlfriend.
       </p>
     </motion.section>
   );
